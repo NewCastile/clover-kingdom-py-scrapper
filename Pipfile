@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+selenium = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+googletrans = "==4.0.0rc1"
+deep-translator = "*"
+google-trans-new = "*"
+clipboard = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

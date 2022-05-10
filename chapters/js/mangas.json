@@ -1,0 +1,2006 @@
+[
+	{
+		"name": "Black Clover",
+		"description": "La historia gira entorno a Asta, un chico bullicioso y sin aparente talento mágico y Yuno, su amigo y rival, el cual es un genio en el uso de la magia. Ambos tienen sueños de convertirse en el Rey Mago, para cumplir la promesa hecha por ambos durante su infancia, uno de los dos debe ser el mago más fuerte.",
+		"content": [
+			{
+				"title": "Arco de asalto al Reino de Spade",
+				"synopsis": "Los Reinos del Trébol y del Corazón organizan sus fuerzas para asaltar el Reino de las Palas y recuperar a los capitanes y a la princesa capturados, así como para impedir que la Tríada Oscura desate los demonios en el continente.",
+				"chapters": [
+					{
+						"number": 323,
+						"title": "Socio",
+						"number_of_pages": 15,
+						"time_ago": "hace 6 días"
+					},
+					{
+						"number": 322,
+						"title": "El vicecapitán de los Black Bulls",
+						"number_of_pages": 15,
+						"time_ago": "hace 5 días"
+					},
+					{
+						"number": 321,
+						"title": "Excusas",
+						"number_of_pages": 18,
+						"time_ago": "hace 6 días"
+					},
+					{
+						"number": 320,
+						"title": "La causa de todo esto",
+						"number_of_pages": 13,
+						"time_ago": "hace 14 días"
+					},
+					{
+						"number": 319,
+						"title": "Grandes Caballeros Mágicos contra el Rey de los Diablos",
+						"number_of_pages": 12,
+						"time_ago": "hace 21 días"
+					},
+					{
+						"number": 318,
+						"title": "En presencia del Rey Demonio",
+						"number_of_pages": 16,
+						"time_ago": "hace un mes"
+					},
+					{
+						"number": 317,
+						"title": "Cambiar",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 meses"
+					},
+					{
+						"number": 316,
+						"title": "Tajo de los no elegidos",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 meses"
+					},
+					{
+						"number": 315,
+						"title": "Enfrentamiento de Ultra Gigantes",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 meses"
+					},
+					{
+						"number": 314,
+						"title": "La misa",
+						"number_of_pages": 11,
+						"time_ago": "hace 3 meses"
+					},
+					{
+						"number": 313,
+						"title": "El Capitán de los Toros Negros",
+						"number_of_pages": 12,
+						"time_ago": "hace 3 meses"
+					},
+					{
+						"number": 312,
+						"title": "Ante la puerta del infierno",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 meses"
+					},
+					{
+						"number": 311,
+						"title": "Llegar a casa con vida",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 meses"
+					},
+					{
+						"number": 310,
+						"title": "El derecho y el error inflexibles",
+						"number_of_pages": 13,
+						"time_ago": "hace 3 meses"
+					},
+					{
+						"number": 309,
+						"title": "Parpadeo",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 meses"
+					},
+					{
+						"number": 308,
+						"title": "Yuno Grinberryall",
+						"number_of_pages": 15,
+						"time_ago": "hace 4 meses"
+					},
+					{
+						"number": 307,
+						"title": "El corazón del diablo",
+						"number_of_pages": 13,
+						"time_ago": "hace 4 meses"
+					},
+					{
+						"number": 306,
+						"title": "Límite",
+						"number_of_pages": 15,
+						"time_ago": "hace 5 meses"
+					},
+					{
+						"number": 305,
+						"title": "El vicecapitán de la Aurora Dorada",
+						"number_of_pages": 15,
+						"time_ago": "hace 5 meses"
+					},
+					{
+						"number": 304,
+						"title": "Realidad y magia",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 meses"
+					},
+					{
+						"number": 303,
+						"title": "Buenas noticias",
+						"number_of_pages": 14,
+						"time_ago": "hace 5 meses"
+					},
+					{
+						"number": 302,
+						"title": "Convergencia de la esperanza",
+						"number_of_pages": 15,
+						"time_ago": "hace 6 meses"
+					},
+					{
+						"number": 301,
+						"title": "Esos sentimientos",
+						"number_of_pages": 15,
+						"time_ago": "hace 6 meses"
+					},
+					{
+						"number": 300,
+						"title": "Más allá de la tenacidad",
+						"number_of_pages": 13,
+						"time_ago": "hace 7 meses"
+					},
+					{
+						"number": 299,
+						"title": "El sonido del fin",
+						"number_of_pages": 12,
+						"time_ago": "hace 7 meses"
+					},
+					{
+						"number": 298,
+						"title": "Vida transitoria",
+						"number_of_pages": 9,
+						"time_ago": "hace 7 meses"
+					},
+					{
+						"number": 297,
+						"title": "Adviento",
+						"number_of_pages": 13,
+						"time_ago": "hace 7 meses"
+					},
+					{
+						"number": 296,
+						"title": "La valquiria sagrada",
+						"number_of_pages": 12,
+						"time_ago": "hace 8 meses"
+					},
+					{
+						"number": 295,
+						"title": "Partido de la Venganza",
+						"number_of_pages": 17,
+						"time_ago": "hace 8 meses"
+					},
+					{
+						"number": 294,
+						"title": "Como se prometió",
+						"number_of_pages": 15,
+						"time_ago": "hace 8 meses"
+					},
+					{
+						"number": 293,
+						"title": "Smash Injustice",
+						"number_of_pages": 16,
+						"time_ago": "hace 8 meses"
+					},
+					{
+						"number": 292,
+						"title": "Conociendo",
+						"number_of_pages": 14,
+						"time_ago": "hace 9 meses"
+					},
+					{
+						"number": 291,
+						"title": "Un duelo con un inferior lejano",
+						"number_of_pages": 16,
+						"time_ago": "hace 9 meses"
+					},
+					{
+						"number": 290,
+						"title": "Lo más alto contra lo más bajo",
+						"number_of_pages": 14,
+						"time_ago": "hace 10 meses"
+					},
+					{
+						"number": 289,
+						"title": "Sol helado",
+						"number_of_pages": 12,
+						"time_ago": "hace 10 meses"
+					},
+					{
+						"number": 288,
+						"title": "Manifiesto",
+						"number_of_pages": 13,
+						"time_ago": "hace 10 meses"
+					},
+					{
+						"number": 287,
+						"title": "Día de la Expiación",
+						"number_of_pages": 14,
+						"time_ago": "hace 10 meses"
+					},
+					{
+						"number": 286,
+						"title": "Una noche sin mañana",
+						"number_of_pages": 19,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 285,
+						"title": "Un juego de etiqueta infernal",
+						"number_of_pages": 18,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 284,
+						"title": "La magia definitiva",
+						"number_of_pages": 12,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 283,
+						"title": "Una enorme melé",
+						"number_of_pages": 12,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 282,
+						"title": "Guardián Negro",
+						"number_of_pages": 12,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 281,
+						"title": "Asalto al Reino",
+						"number_of_pages": 14,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 280,
+						"title": "Catástrofe en aumento",
+						"number_of_pages": 14,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 279,
+						"title": "La puerta del infierno",
+						"number_of_pages": 16,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 278,
+						"title": "Las hachas de la mantis",
+						"number_of_pages": 18,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 277,
+						"title": "Reina de las Zarzas",
+						"number_of_pages": 17,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 276,
+						"title": "Boreas",
+						"number_of_pages": 13,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 275,
+						"title": "El fuego del infierno encarnado",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 274,
+						"title": "Comienza la batalla",
+						"number_of_pages": 16,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 273,
+						"title": "Día del Destino",
+						"number_of_pages": 13,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 272,
+						"title": "Coto de caza de la prisión oscura",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 271,
+						"title": "Unión",
+						"number_of_pages": 12,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 270,
+						"title": "Juntos",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 269,
+						"title": "El que no sabe usar la magia",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 268,
+						"title": "Diablo",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 267,
+						"title": "El Ritual de Vinculación con el Diablo",
+						"number_of_pages": 16,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 266,
+						"title": "Invitación al Jardín Oscuro",
+						"number_of_pages": 16,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 265,
+						"title": "Elysia",
+						"number_of_pages": 9,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 264,
+						"title": "Los más fuertes se agitan",
+						"number_of_pages": 16,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 263,
+						"title": "Sombra Intel",
+						"number_of_pages": 14,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 262,
+						"title": "Una conferencia turbulenta",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 261,
+						"title": "Sombras de la noche",
+						"number_of_pages": 17,
+						"time_ago": "hace un año"
+					}
+				]
+			},
+			{
+				"title": "Arco de lucha conjunta del Reino del Corazón",
+				"synopsis": "Tras los seis meses de entrenamiento, Asta y los demás miembros de los Caballeros Mágicos comienzan a trabajar junto a los magos del Reino del Corazón en su lucha contra el Reino de las Palas y la Tríada Oscura, así como contra los demonios.",
+				"chapters": [
+					{
+						"number": 260,
+						"title": "La oscuridad de la salida",
+						"number_of_pages": 15,
+						"time_ago": "hace un año"
+					},
+					{
+						"number": 259,
+						"title": "Toro salvaje al unísono",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 258,
+						"title": "Juramento negro",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 257,
+						"title": "Pasar a la acción",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 256,
+						"title": "El deber de un capitán",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 255,
+						"title": "Vida explosiva",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 254,
+						"title": "Diferencial de potencia",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 253,
+						"title": "Derramamiento de sangre",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 252,
+						"title": "Cruzada del Agua",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 251,
+						"title": "El Diablo de la Maldición",
+						"number_of_pages": 16,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 250,
+						"title": "Charmy contra Halbet",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 249,
+						"title": "Leopold vs. Sivoir",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 248,
+						"title": "Suerte contra Svenkin",
+						"number_of_pages": 12,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 247,
+						"title": "Campo de batalla: El Reino del Corazón",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 246,
+						"title": "El árbol de Qliphoth",
+						"number_of_pages": 17,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 245,
+						"title": "Dante contra el Capitán de los Toros Negros",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 244,
+						"title": "Cinderella Grey",
+						"number_of_pages": 17,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 243,
+						"title": "Anfitrión del Diablo vs. Anfitrión del Diablo",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 242,
+						"title": "Los humanos y el mal",
+						"number_of_pages": 17,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 241,
+						"title": "Super Midair Battle",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 240,
+						"title": "Estalla la Gran Guerra",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 239,
+						"title": "El brote de Yggdrasil",
+						"number_of_pages": 12,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 238,
+						"title": "El poder de Zenon",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 237,
+						"title": "Obstinación pura y dura",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 236,
+						"title": "Es imposible que seamos iguales",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 235,
+						"title": "Discípulos Oscuros",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 234,
+						"title": "El Mensajero del Reino de las Palas",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 233,
+						"title": "El destino comienza a moverse",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 232,
+						"title": "Lagos tranquilos y sombras del bosque",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 231,
+						"title": "La Tríada Oscura",
+						"number_of_pages": 17,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 230,
+						"title": "Te aplastaré",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 229,
+						"title": "El comienzo de la esperanza y la desesperación",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					}
+				]
+			},
+			{
+				"title": "Arco de reencarnación de los elfos",
+				"synopsis": "Una vez seleccionados los Caballeros Reales, comienzan su ataque a la base del Ojo del Sol de Medianoche. Durante la batalla, las cosas no salen como se había planeado cuando muchos de los Caballeros se vuelven unos contra otros cuando la Tribu de los Elfos se reencarna en ellos.",
+				"chapters": [
+					{
+						"number": 228,
+						"title": "Magos de la etapa arcana",
+						"number_of_pages": 17,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 227,
+						"title": "La Sacerdotisa Omnisciente",
+						"number_of_pages": 16,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 226,
+						"title": "La magia del guardián de los espíritus",
+						"number_of_pages": 13,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 225,
+						"title": "El Reino del Corazón",
+						"number_of_pages": 16,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 224,
+						"title": "Estás maldito",
+						"number_of_pages": 18,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 223,
+						"title": "La familia Agrippa",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 222,
+						"title": "Entre nosotros",
+						"number_of_pages": 16,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 221,
+						"title": "La confesión de la rosa azul",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 220,
+						"title": "Visitas",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 219,
+						"title": "Más negro que nunca",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 218,
+						"title": "Lo peor de lo peor",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 217,
+						"title": "La balanza de la justicia",
+						"number_of_pages": 14,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 216,
+						"title": "Equilibrio de poder",
+						"number_of_pages": 15,
+						"time_ago": "hace 2 años"
+					},
+					{
+						"number": 215,
+						"title": "Tres problemas",
+						"number_of_pages": 12,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 214,
+						"title": "Amanecer",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 213,
+						"title": "El gran árbol de las almas",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 212,
+						"title": "El fin del destino",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 211,
+						"title": "El ataque final",
+						"number_of_pages": 19,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 210,
+						"title": "Al borde del abismo",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 209,
+						"title": "Deseo",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 208,
+						"title": "Espadas",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 207,
+						"title": "La magia definitiva",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 206,
+						"title": "Un reencuentro a través del tiempo y el espacio",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 205,
+						"title": "La verdad de 500 años",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 204,
+						"title": "El último deseo",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 203,
+						"title": "Romper el sello",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 202,
+						"title": "Desde otro mundo",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 201,
+						"title": "El nivel superior del Palacio de las Sombras",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 200,
+						"title": "Mundo de la Luz",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 199,
+						"title": "El último enemigo natural",
+						"number_of_pages": 13,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 198,
+						"title": "El Grimorio de las Cinco Hojas",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 197,
+						"title": "Falsa esperanza",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 196,
+						"title": "Mastermind",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 195,
+						"title": "Un cambio completo",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 194,
+						"title": "Indignación",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 193,
+						"title": "Los últimos invasores",
+						"number_of_pages": 13,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 192,
+						"title": "Dos puños carmesíes",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 191,
+						"title": "Asalto al Palacio de las Sombras",
+						"number_of_pages": 13,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 190,
+						"title": "¡¡¡¡Ir a !!!!",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 189,
+						"title": "Humanos en los que se puede confiar",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 188,
+						"title": "Por qué he vivido tanto tiempo",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 187,
+						"title": "Batalla en el espacio entre el cielo y la tierra",
+						"number_of_pages": 13,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 186,
+						"title": "Los ojos en el espejo",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 185,
+						"title": "Encuentro con el sueño",
+						"number_of_pages": 13,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 184,
+						"title": "El mundo de los sueños",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 183,
+						"title": "¡¡El Toro Salvaje se une a la confrontación!!",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 182,
+						"title": "Los apóstoles de Sephirah",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 181,
+						"title": "Hermanos Magos Espaciales",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 180,
+						"title": "Cuchillas afiladas",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 179,
+						"title": "Batalla de la Sala del Rey",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 178,
+						"title": "Magia humana",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 177,
+						"title": "Bailarina del campo de batalla",
+						"number_of_pages": 11,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 176,
+						"title": "Hermanos",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 175,
+						"title": "La batalla de los Silvas",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 174,
+						"title": "Volando hacia adentro",
+						"number_of_pages": 15,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 173,
+						"title": "Batalla final en el Castillo del Trébol",
+						"number_of_pages": 18,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 172,
+						"title": "Renacimiento",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 171,
+						"title": "El león dormido",
+						"number_of_pages": 16,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 170,
+						"title": "Los caídos hacen su jugada",
+						"number_of_pages": 17,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 169,
+						"title": "El Capitán de los Toros Negros contra la Rosa Salvaje Carmesí",
+						"number_of_pages": 14,
+						"time_ago": "hace 3 años"
+					},
+					{
+						"number": 168,
+						"title": "Vs. Personas que juraron lealtad al mismo hombre",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 167,
+						"title": "Camino de la venganza, camino de la expiación",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 166,
+						"title": "El Vengador Resucitado",
+						"number_of_pages": 15,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 165,
+						"title": "¡¡Los Toros Negros Cargan!!",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 164,
+						"title": "¡Los buenos para nada se levantan!",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 163,
+						"title": "Sonrisas, lágrimas",
+						"number_of_pages": 13,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 162,
+						"title": "Rayo de Furia vs. Amigos",
+						"number_of_pages": 11,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 161,
+						"title": "Vínculos humanos",
+						"number_of_pages": 13,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 160,
+						"title": "Probablemente no lo sepas",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 159,
+						"title": "Liberación del infortunio",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 158,
+						"title": "La vida del pueblo en los palos",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 157,
+						"title": "Caer, o salvar el reino",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 156,
+						"title": "Verdadera forma, verdadero poder",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 155,
+						"title": "No perderemos ante ti",
+						"number_of_pages": 13,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 154,
+						"title": "Viento de Oro",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 153,
+						"title": "El camino desesperado hacia la supervivencia",
+						"number_of_pages": 15,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 152,
+						"title": "Mujer problemática",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 151,
+						"title": "Desventaja abrumadora",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 150,
+						"title": "Colapso",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 149,
+						"title": "Reencarnación",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 148,
+						"title": "Hasta ahora",
+						"number_of_pages": 18,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 147,
+						"title": "El final y el principio",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					}
+				]
+			},
+			{
+				"title": "Arco de los Caballeros Reales",
+				"synopsis": "Tras la recuperación de Asta y los combates contra el Reino del Diamante y el Ojo del Sol de Medianoche, los Toros Negros asisten al Festival de los Premios Estrella. Tras el evento, Asta, Yuno, Yami, Charlotte y Noelle asisten a una sesión de entrenamiento con los Leones Carmesí dirigida por su capitana interina, Mereoleona Vermillion. Asta y algunos de sus compañeros participan en un torneo con otros Caballeros Mágicos para formar parte de los Caballeros Reales, un escuadrón al que se le asignará el deber de atacar la Base del Ojo del Sol de Medianoche. Durante el torneo, un joven sospechoso que se hace llamar Xerx Lugner entra en el torneo en el equipo de Asta.\n\nTraducción realizada con la versión gratuita del traductor www.DeepL.com/Translator",
+				"chapters": [
+					{
+						"number": 146,
+						"title": "El nuevo futuro",
+						"number_of_pages": 20,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 145,
+						"title": "Julius Novachrono",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 144,
+						"title": "Este hombre es...",
+						"number_of_pages": 15,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 143,
+						"title": "El Emperador Mágico contra el Líder del Ojo del Sol de Medianoche",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 142,
+						"title": "Crepúsculo",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 141,
+						"title": "La temeraria lucha mágica",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 140,
+						"title": "Probablemente no lo sepas, pero...",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 139,
+						"title": "El escondite de los toros negros",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 138,
+						"title": "Asalto",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 137,
+						"title": "Mereoleona contra Rhya la traidora",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 136,
+						"title": "Avanzar en las olas de la tormenta",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 135,
+						"title": "¡¡Ingresión en la base del Ojo del Sol de Medianoche!!",
+						"number_of_pages": 15,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 134,
+						"title": "Sueño",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 133,
+						"title": "Formación de los Caballeros Reales",
+						"number_of_pages": 20,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 132,
+						"title": "Ganador",
+						"number_of_pages": 14,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 131,
+						"title": "Adelante",
+						"number_of_pages": 15,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 130,
+						"title": "Quemar el presente en la memoria",
+						"number_of_pages": 12,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 129,
+						"title": "La vida de cierto hombre",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 128,
+						"title": "Los que luchan hasta el final",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 127,
+						"title": "Chispas doradas y negras",
+						"number_of_pages": 19,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 126,
+						"title": "El hermano menor estudiante de honor contra el hermano mayor chapucero",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 125,
+						"title": "Fue hermoso",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 124,
+						"title": "Yankee-Senpai Vs. Muscle Runt",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 123,
+						"title": "Trampa para campesinos",
+						"number_of_pages": 17,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 122,
+						"title": "A mi manera",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 121,
+						"title": "Crush",
+						"number_of_pages": 16,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 120,
+						"title": "Destino",
+						"number_of_pages": 18,
+						"time_ago": "hace 4 años"
+					},
+					{
+						"number": 119,
+						"title": "Más",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 118,
+						"title": "Mago X",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 117,
+						"title": "Los dos magos espaciales",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 116,
+						"title": "El vicecapitán de Coral Peacock",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 115,
+						"title": "Sin esperanza",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 114,
+						"title": "Flor de la resolución",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 113,
+						"title": "Torneo de Batalla de Destrucción de Cristales",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 112,
+						"title": "Examen de selección de los Caballeros Reales",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 111,
+						"title": "Bañarse",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 110,
+						"title": "El fuego de San Elmo",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 109,
+						"title": "Sendero Ultime-Volcano Mountain",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 108,
+						"title": "La leona invicta no coronada",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 107,
+						"title": "El Rey del Reino del Trébol",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 106,
+						"title": "Hasta dónde hemos llegado",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 105,
+						"title": "Dos nuevas estrellas",
+						"number_of_pages": 21,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 104,
+						"title": "La melancolía de la doncella de la zarza",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 103,
+						"title": "Una doble cita del Festival de la diversión",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 102,
+						"title": "El día libre de Asta",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					}
+				]
+			},
+			{
+				"title": "Arco del Bosque de las Brujas",
+				"synopsis": "Después de que los Toros Negros consiguieran recuperar la piedra mágica y volver a la superficie, los brazos de Asta son revisados por un sanador, que dice que sus brazos nunca volverán a ser los mismos. Al oír esto el equipo se separa para tratar de encontrar una cura para Asta, y Vanessa va a un lugar al que nunca pensó que volvería.",
+				"chapters": [
+					{
+						"number": 101,
+						"title": "Estoy en casa",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 100,
+						"title": "El hilo rojo del destino",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 99,
+						"title": "Familia",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 98,
+						"title": "Él es quien es",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 97,
+						"title": "Nada",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 96,
+						"title": "Transformación",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 95,
+						"title": "Los que se refuerzan mutuamente",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 94,
+						"title": "Un cambio completo",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 93,
+						"title": "El mundo prometido",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 92,
+						"title": "No te dejaré morir",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 91,
+						"title": "Explosión de plasma",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 90,
+						"title": "Estudiantes",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 89,
+						"title": "Expiación de los desertores",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 88,
+						"title": "Empuje de la terminación",
+						"number_of_pages": 15,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 87,
+						"title": "No soy un perdedor",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 86,
+						"title": "Las llamas del odio",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 85,
+						"title": "El toro de carga",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 84,
+						"title": "Decisión en el campo de batalla",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 83,
+						"title": "Infiltración",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 82,
+						"title": "Bosque de las brujas",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 81,
+						"title": "Un tipo así",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 80,
+						"title": "Nunca más",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 79,
+						"title": "Detrás de la máscara",
+						"number_of_pages": 21,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 78,
+						"title": "La proclamación de los débiles",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 77,
+						"title": "Quien sea más fuerte, gana",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 76,
+						"title": "La escuadra más fuerte",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 75,
+						"title": "La batalla de Kiten",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 74,
+						"title": "Prueba de que es correcto",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					}
+				]
+			},
+			{
+				"title": "Arco del Templo de los Fondos Marinos",
+				"synopsis": "Los Toros Negros reciben una misión especial del Emperador Mágico: recuperar la piedra mágica del Templo del Lecho Marino antes de que lo haga el Ojo del Sol de Medianoche. El sacerdote principal del templo desafía a los Caballeros Mágicos a un juego para obtener la piedra. Pero en medio de este desafío hay una interrupción...",
+				"chapters": [
+					{
+						"number": 73,
+						"title": "El fin de la batalla, el fin de la desesperación",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 72,
+						"title": "Más allá del propio límite",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 71,
+						"title": "Abrir el camino del destino",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 70,
+						"title": "La desesperación frente a la esperanza",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 69,
+						"title": "Mi única arma",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 68,
+						"title": "Despertar",
+						"number_of_pages": 21,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 67,
+						"title": "Bonos",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 66,
+						"title": "La verdadera forma",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 65,
+						"title": "El hombre que no se rinde",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 64,
+						"title": "Una bola de fuego sin filtrar y un rayo salvaje",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 63,
+						"title": "Un juego con vidas en juego",
+						"number_of_pages": 22,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 62,
+						"title": "El fuerte reinado",
+						"number_of_pages": 21,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 61,
+						"title": "Temple Battle Royale",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 60,
+						"title": "El juego del Sumo Sacerdote",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 59,
+						"title": "Templo de los fondos marinos",
+						"number_of_pages": 16,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 58,
+						"title": "La historia del niño del agua que crece",
+						"number_of_pages": 22,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 57,
+						"title": "Una historia de la playa negra",
+						"number_of_pages": 22,
+						"time_ago": "hace 5 años"
+					}
+				]
+			},
+			{
+				"title": "Arco de encuentro del Ojo del Sol de Medianoche",
+				"synopsis": "Este arco gira en torno al secuestro de niños de Nairn, que es manipulado por Sally, miembro del Ojo del Sol de Medianoche. Esto provoca un conflicto entre el grupo de magos renegados y la Orden de los Caballeros Mágicos del Reino del Trébol.",
+				"chapters": [
+					{
+						"number": 56,
+						"title": "Saludo de tres hojas",
+						"number_of_pages": 22,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 55,
+						"title": "Los capitanes y el campesino",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 54,
+						"title": "Reunión de los Capitanes de los Caballeros Mágicos",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 53,
+						"title": "No son tuyos",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 52,
+						"title": "El que no tiene magia",
+						"number_of_pages": 21,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 51,
+						"title": "Tercer ojo",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 50,
+						"title": "La luz del juicio",
+						"number_of_pages": 22,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 49,
+						"title": "Pecar por pecar",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 48,
+						"title": "Ki",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 47,
+						"title": "Magia de la Luz vs. Magia Oscura",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 46,
+						"title": "El hombre que corta la muerte",
+						"number_of_pages": 22,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 45,
+						"title": "Para ayudar a alguien algún día",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 44,
+						"title": "Hermanos",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 43,
+						"title": "La locura del remolino",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 42,
+						"title": "Brotes de tres hojas",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 41,
+						"title": "Flash",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 40,
+						"title": "Persecución en la nieve",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 39,
+						"title": "El mago de los espejos",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 38,
+						"title": "El que está en mi corazón",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					}
+				]
+			},
+			{
+				"title": "Arco de Asalto de la Capital Real",
+				"synopsis": "Asta y Noelle Silva son invitadas a una ceremonia de entrega de premios por Julius Novachrono junto con Klaus Lunette, Yuno y Mimosa Vermilion tras completar la misión de exploración de mazmorras. Durante el banquete, la capital real está siendo invadida por un ejército de muertos vivientes.",
+				"chapters": [
+					{
+						"number": 37,
+						"title": "Cuando nos encontremos de nuevo",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 36,
+						"title": "Luz",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 35,
+						"title": "El hombre más fuerte",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 34,
+						"title": "Bestias heridas",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 33,
+						"title": "Adversidad",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 32,
+						"title": "El que espera en el corazón de las tinieblas",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 31,
+						"title": "León Carmesí",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 30,
+						"title": "Un nuevo rival",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 29,
+						"title": "Odia perder",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 28,
+						"title": "Blackout",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 27,
+						"title": "Podemos ser más fuertes",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 26,
+						"title": "Danza mágica salvaje",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 25,
+						"title": "Cadáveres en marcha",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 24,
+						"title": "Motín de la capital real",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 23,
+						"title": "Ceremonia de concesión de méritos de guerra",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 22,
+						"title": "Reunión de la Capital Real",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					}
+				]
+			},
+			{
+				"title": "Arco de exploración de mazmorras",
+				"synopsis": "Asta, Luck Voltia y Noelle Silva, del escuadrón Toro Negro, son asignados a explorar y conquistar una mazmorra junto con Yuno, Klaus Lunette y Mimosa Vermilion, del escuadrón Amanecer Dorado. El conflicto surge cuando se encuentran con los magos del Reino del Diamante.",
+				"chapters": [
+					{
+						"number": 21,
+						"title": "Colapso y alivio",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 20,
+						"title": "Al instante",
+						"number_of_pages": 17,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 19,
+						"title": "Recuerdos de ti",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 18,
+						"title": "En la parte trasera del Tesoro",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 17,
+						"title": "Destructor",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 16,
+						"title": "Combate a Muerte",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 15,
+						"title": "Tres personas",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 14,
+						"title": "Camarada",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 13,
+						"title": "Mago de Diamante",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 12,
+						"title": "Reunión",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 11,
+						"title": "Mazmorra",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					}
+				]
+			},
+			{
+				"title": "Arco de entrada de los Caballeros Mágicos",
+				"synopsis": "Asta y Yuno son huérfanos criados en Hage. Cuando alcanzan los 15 años, ambas reciben sus respectivos grimorios y entran en las escuadras de los Caballeros Mágicos. Asta va al escuadrón del Toro Negro, mientras que Yuno elige el escuadrón del Amanecer Dorado.",
+				"chapters": [
+					{
+						"number": 10,
+						"title": "Lo que pasó un día en la ciudad del castillo",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 9,
+						"title": "El voto del niño 2",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 8,
+						"title": "Para proteger a alguien",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 7,
+						"title": "Brutos",
+						"number_of_pages": 18,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 6,
+						"title": "Go Go Primera Misión",
+						"number_of_pages": 19,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 5,
+						"title": "El otro nuevo miembro",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 4,
+						"title": "Toro negro",
+						"number_of_pages": 20,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 3,
+						"title": "El camino hacia el Emperador Mágico",
+						"number_of_pages": 23,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 2,
+						"title": "Examen de ingreso a los Caballeros Mágicos",
+						"number_of_pages": 26,
+						"time_ago": "hace 5 años"
+					},
+					{
+						"number": 1,
+						"title": "El voto del niño",
+						"number_of_pages": 52,
+						"time_ago": "hace 5 años"
+					}
+				]
+			}
+		]
+	}
+]

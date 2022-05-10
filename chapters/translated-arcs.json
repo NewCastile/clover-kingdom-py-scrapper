@@ -1,0 +1,1356 @@
+{
+	"arcs": [
+		{
+			"title": "Arco de asalto al Reino de Spade",
+			"synopsis": "Los Reinos del Tr\u00e9bol y del Coraz\u00f3n organizan sus fuerzas para asaltar el Reino de las Palas y recuperar a los capitanes y a la princesa capturados, as\u00ed como para impedir que la Tr\u00edada Oscura desate los demonios en el continente.",
+			"chapters": [
+				{
+					"number": 323,
+					"title": "Socio"
+				},
+				{
+					"number": 322,
+					"title": "El vicecapit\u00e1n de los Black Bulls"
+				},
+				{
+					"number": 321,
+					"title": "Excusas"
+				},
+				{
+					"number": 320,
+					"title": "La causa de todo esto"
+				},
+				{
+					"number": 319,
+					"title": "Grandes Caballeros M\u00e1gicos contra el Rey de los Diablos"
+				},
+				{
+					"number": 318,
+					"title": "En presencia del Rey Demonio"
+				},
+				{
+					"number": 317,
+					"title": "Cambiar"
+				},
+				{
+					"number": 316,
+					"title": "Tajo de los no elegidos"
+				},
+				{
+					"number": 315,
+					"title": "Enfrentamiento de Ultra Gigantes"
+				},
+				{
+					"number": 314,
+					"title": "La misa"
+				},
+				{
+					"number": 313,
+					"title": "El Capit\u00e1n de los Toros Negros"
+				},
+				{
+					"number": 312,
+					"title": "Ante la puerta del infierno"
+				},
+				{
+					"number": 311,
+					"title": "Llegar a casa con vida"
+				},
+				{
+					"number": 310,
+					"title": "El derecho y el error inflexibles"
+				},
+				{
+					"number": 309,
+					"title": "Parpadeo"
+				},
+				{
+					"number": 308,
+					"title": "Yuno Grinberryall"
+				},
+				{
+					"number": 307,
+					"title": "El coraz\u00f3n del diablo"
+				},
+				{
+					"number": 306,
+					"title": "L\u00edmite"
+				},
+				{
+					"number": 305,
+					"title": "El vicecapit\u00e1n de la Aurora Dorada"
+				},
+				{
+					"number": 304,
+					"title": "Realidad y magia"
+				},
+				{
+					"number": 303,
+					"title": "Buenas noticias"
+				},
+				{
+					"number": 302,
+					"title": "Convergencia de la esperanza"
+				},
+				{
+					"number": 301,
+					"title": "Esos sentimientos"
+				},
+				{
+					"number": 300,
+					"title": "M\u00e1s all\u00e1 de la tenacidad"
+				},
+				{
+					"number": 299,
+					"title": "El sonido del fin"
+				},
+				{
+					"number": 298,
+					"title": "Vida transitoria"
+				},
+				{
+					"number": 297,
+					"title": "Adviento"
+				},
+				{
+					"number": 296,
+					"title": "La valquiria sagrada"
+				},
+				{
+					"number": 295,
+					"title": "Partido de la Venganza"
+				},
+				{
+					"number": 294,
+					"title": "Como se prometi\u00f3"
+				},
+				{
+					"number": 293,
+					"title": "Smash Injustice"
+				},
+				{
+					"number": 292,
+					"title": "Conociendo"
+				},
+				{
+					"number": 291,
+					"title": "Un duelo con un inferior lejano"
+				},
+				{
+					"number": 290,
+					"title": "Lo m\u00e1s alto contra lo m\u00e1s bajo"
+				},
+				{
+					"number": 289,
+					"title": "Sol helado"
+				},
+				{
+					"number": 288,
+					"title": "Manifiesto"
+				},
+				{
+					"number": 287,
+					"title": "D\u00eda de la Expiaci\u00f3n"
+				},
+				{
+					"number": 286,
+					"title": "Una noche sin ma\u00f1ana"
+				},
+				{
+					"number": 285,
+					"title": "Un juego de etiqueta infernal"
+				},
+				{
+					"number": 284,
+					"title": "La magia definitiva"
+				},
+				{
+					"number": 283,
+					"title": "Una enorme mel\u00e9"
+				},
+				{
+					"number": 282,
+					"title": "Guardi\u00e1n Negro"
+				},
+				{
+					"number": 281,
+					"title": "Asalto al Reino"
+				},
+				{
+					"number": 280,
+					"title": "Cat\u00e1strofe en aumento"
+				},
+				{
+					"number": 279,
+					"title": "La puerta del infierno"
+				},
+				{
+					"number": 278,
+					"title": "Las hachas de la mantis"
+				},
+				{
+					"number": 277,
+					"title": "Reina de las Zarzas"
+				},
+				{
+					"number": 276,
+					"title": "Boreas"
+				},
+				{
+					"number": 275,
+					"title": "El fuego del infierno encarnado"
+				},
+				{
+					"number": 274,
+					"title": "Comienza la batalla"
+				},
+				{
+					"number": 273,
+					"title": "D\u00eda del Destino"
+				},
+				{
+					"number": 272,
+					"title": "Coto de caza de la prisi\u00f3n oscura"
+				},
+				{
+					"number": 271,
+					"title": "Uni\u00f3n"
+				},
+				{
+					"number": 270,
+					"title": "Juntos"
+				},
+				{
+					"number": 269,
+					"title": "El que no sabe usar la magia"
+				},
+				{
+					"number": 268,
+					"title": "Diablo"
+				},
+				{
+					"number": 267,
+					"title": "El Ritual de Vinculaci\u00f3n con el Diablo"
+				},
+				{
+					"number": 266,
+					"title": "Invitaci\u00f3n al Jard\u00edn Oscuro"
+				},
+				{
+					"number": 265,
+					"title": "Elysia"
+				},
+				{
+					"number": 264,
+					"title": "Los m\u00e1s fuertes se agitan"
+				},
+				{
+					"number": 263,
+					"title": "Sombra Intel"
+				},
+				{
+					"number": 262,
+					"title": "Una conferencia turbulenta"
+				},
+				{
+					"number": 261,
+					"title": "Sombras de la noche"
+				}
+			]
+		},
+		{
+			"title": "Arco de lucha conjunta del Reino del Coraz\u00f3n",
+			"synopsis": "Tras los seis meses de entrenamiento, Asta y los dem\u00e1s miembros de los Caballeros M\u00e1gicos comienzan a trabajar junto a los magos del Reino del Coraz\u00f3n en su lucha contra el Reino de las Palas y la Tr\u00edada Oscura, as\u00ed como contra los demonios.",
+			"chapters": [
+				{
+					"number": 260,
+					"title": "La oscuridad de la salida"
+				},
+				{
+					"number": 259,
+					"title": "Toro salvaje al un\u00edsono"
+				},
+				{
+					"number": 258,
+					"title": "Juramento negro"
+				},
+				{
+					"number": 257,
+					"title": "Pasar a la acci\u00f3n"
+				},
+				{
+					"number": 256,
+					"title": "El deber de un capit\u00e1n"
+				},
+				{
+					"number": 255,
+					"title": "Vida explosiva"
+				},
+				{
+					"number": 254,
+					"title": "Diferencial de potencia"
+				},
+				{
+					"number": 253,
+					"title": "Derramamiento de sangre"
+				},
+				{
+					"number": 252,
+					"title": "Cruzada del Agua"
+				},
+				{
+					"number": 251,
+					"title": "El Diablo de la Maldici\u00f3n"
+				},
+				{
+					"number": 250,
+					"title": "Charmy contra Halbet"
+				},
+				{
+					"number": 249,
+					"title": "Leopold vs. Sivoir"
+				},
+				{
+					"number": 248,
+					"title": "Suerte contra Svenkin"
+				},
+				{
+					"number": 247,
+					"title": "Campo de batalla: El Reino del Coraz\u00f3n"
+				},
+				{
+					"number": 246,
+					"title": "El \u00e1rbol de Qliphoth"
+				},
+				{
+					"number": 245,
+					"title": "Dante contra el Capit\u00e1n de los Toros Negros"
+				},
+				{
+					"number": 244,
+					"title": "Cinderella Grey"
+				},
+				{
+					"number": 243,
+					"title": "Anfitri\u00f3n del Diablo vs. Anfitri\u00f3n del Diablo"
+				},
+				{
+					"number": 242,
+					"title": "Los humanos y el mal"
+				},
+				{
+					"number": 241,
+					"title": "Super Midair Battle"
+				},
+				{
+					"number": 240,
+					"title": "Estalla la Gran Guerra"
+				},
+				{
+					"number": 239,
+					"title": "El brote de Yggdrasil"
+				},
+				{
+					"number": 238,
+					"title": "El poder de Zenon"
+				},
+				{
+					"number": 237,
+					"title": "Obstinaci\u00f3n pura y dura"
+				},
+				{
+					"number": 236,
+					"title": "Es imposible que seamos iguales"
+				},
+				{
+					"number": 235,
+					"title": "Disc\u00edpulos Oscuros"
+				},
+				{
+					"number": 234,
+					"title": "El Mensajero del Reino de las Palas"
+				},
+				{
+					"number": 233,
+					"title": "El destino comienza a moverse"
+				},
+				{
+					"number": 232,
+					"title": "Lagos tranquilos y sombras del bosque"
+				},
+				{
+					"number": 231,
+					"title": "La Tr\u00edada Oscura"
+				},
+				{
+					"number": 230,
+					"title": "Te aplastar\u00e9"
+				},
+				{
+					"number": 229,
+					"title": "El comienzo de la esperanza y la desesperaci\u00f3n"
+				}
+			]
+		},
+		{
+			"title": "Arco de reencarnaci\u00f3n de los elfos",
+			"synopsis": "Una vez seleccionados los Caballeros Reales, comienzan su ataque a la base del Ojo del Sol de Medianoche. Durante la batalla, las cosas no salen como se hab\u00eda planeado cuando muchos de los Caballeros se vuelven unos contra otros cuando la Tribu de los Elfos se reencarna en ellos.",
+			"chapters": [
+				{
+					"number": 228,
+					"title": "Magos de la etapa arcana"
+				},
+				{
+					"number": 227,
+					"title": "La Sacerdotisa Omnisciente"
+				},
+				{
+					"number": 226,
+					"title": "La magia del guardi\u00e1n de los esp\u00edritus"
+				},
+				{
+					"number": 225,
+					"title": "El Reino del Coraz\u00f3n"
+				},
+				{
+					"number": 224,
+					"title": "Est\u00e1s maldito"
+				},
+				{
+					"number": 223,
+					"title": "La familia Agrippa"
+				},
+				{
+					"number": 222,
+					"title": "Entre nosotros"
+				},
+				{
+					"number": 221,
+					"title": "La confesi\u00f3n de la rosa azul"
+				},
+				{
+					"number": 220,
+					"title": "Visitas"
+				},
+				{
+					"number": 219,
+					"title": "M\u00e1s negro que nunca"
+				},
+				{
+					"number": 218,
+					"title": "Lo peor de lo peor"
+				},
+				{
+					"number": 217,
+					"title": "La balanza de la justicia"
+				},
+				{
+					"number": 216,
+					"title": "Equilibrio de poder"
+				},
+				{
+					"number": 215,
+					"title": "Tres problemas"
+				},
+				{
+					"number": 214,
+					"title": "Amanecer"
+				},
+				{
+					"number": 213,
+					"title": "El gran \u00e1rbol de las almas"
+				},
+				{
+					"number": 212,
+					"title": "El fin del destino"
+				},
+				{
+					"number": 211,
+					"title": "El ataque final"
+				},
+				{
+					"number": 210,
+					"title": "Al borde del abismo"
+				},
+				{
+					"number": 209,
+					"title": "Deseo"
+				},
+				{
+					"number": 208,
+					"title": "Espadas"
+				},
+				{
+					"number": 207,
+					"title": "La magia definitiva"
+				},
+				{
+					"number": 206,
+					"title": "Un reencuentro a trav\u00e9s del tiempo y el espacio"
+				},
+				{
+					"number": 205,
+					"title": "La verdad de 500 a\u00f1os"
+				},
+				{
+					"number": 204,
+					"title": "El \u00faltimo deseo"
+				},
+				{
+					"number": 203,
+					"title": "Romper el sello"
+				},
+				{
+					"number": 202,
+					"title": "Desde otro mundo"
+				},
+				{
+					"number": 201,
+					"title": "El nivel superior del Palacio de las Sombras"
+				},
+				{
+					"number": 200,
+					"title": "Mundo de la Luz"
+				},
+				{
+					"number": 199,
+					"title": "El \u00faltimo enemigo natural"
+				},
+				{
+					"number": 198,
+					"title": "El Grimorio de las Cinco Hojas"
+				},
+				{
+					"number": 197,
+					"title": "Falsa esperanza"
+				},
+				{
+					"number": 196,
+					"title": "Mastermind"
+				},
+				{
+					"number": 195,
+					"title": "Un cambio completo"
+				},
+				{
+					"number": 194,
+					"title": "Indignaci\u00f3n"
+				},
+				{
+					"number": 193,
+					"title": "Los \u00faltimos invasores"
+				},
+				{
+					"number": 192,
+					"title": "Dos pu\u00f1os carmes\u00edes"
+				},
+				{
+					"number": 191,
+					"title": "Asalto al Palacio de las Sombras"
+				},
+				{
+					"number": 190,
+					"title": "\u00a1\u00a1\u00a1\u00a1Ir a !!!!"
+				},
+				{
+					"number": 189,
+					"title": "Humanos en los que se puede confiar"
+				},
+				{
+					"number": 188,
+					"title": "Por qu\u00e9 he vivido tanto tiempo"
+				},
+				{
+					"number": 187,
+					"title": "Batalla en el espacio entre el cielo y la tierra"
+				},
+				{
+					"number": 186,
+					"title": "Los ojos en el espejo"
+				},
+				{
+					"number": 185,
+					"title": "Encuentro con el sue\u00f1o"
+				},
+				{
+					"number": 184,
+					"title": "El mundo de los sue\u00f1os"
+				},
+				{
+					"number": 183,
+					"title": "\u00a1\u00a1El Toro Salvaje se une a la confrontaci\u00f3n!!"
+				},
+				{
+					"number": 182,
+					"title": "Los ap\u00f3stoles de Sephirah"
+				},
+				{
+					"number": 181,
+					"title": "Hermanos Magos Espaciales"
+				},
+				{
+					"number": 180,
+					"title": "Cuchillas afiladas"
+				},
+				{
+					"number": 179,
+					"title": "Batalla de la Sala del Rey"
+				},
+				{
+					"number": 178,
+					"title": "Magia humana"
+				},
+				{
+					"number": 177,
+					"title": "Bailarina del campo de batalla"
+				},
+				{
+					"number": 176,
+					"title": "Hermanos"
+				},
+				{
+					"number": 175,
+					"title": "La batalla de los Silvas"
+				},
+				{
+					"number": 174,
+					"title": "Volando hacia adentro"
+				},
+				{
+					"number": 173,
+					"title": "Batalla final en el Castillo del Tr\u00e9bol"
+				},
+				{
+					"number": 172,
+					"title": "Renacimiento"
+				},
+				{
+					"number": 171,
+					"title": "El le\u00f3n dormido"
+				},
+				{
+					"number": 170,
+					"title": "Los ca\u00eddos hacen su jugada"
+				},
+				{
+					"number": 169,
+					"title": "El Capit\u00e1n de los Toros Negros contra la Rosa Salvaje Carmes\u00ed"
+				},
+				{
+					"number": 168,
+					"title": "Vs. Personas que juraron lealtad al mismo hombre"
+				},
+				{
+					"number": 167,
+					"title": "Camino de la venganza, camino de la expiaci\u00f3n"
+				},
+				{
+					"number": 166,
+					"title": "El Vengador Resucitado"
+				},
+				{
+					"number": 165,
+					"title": "\u00a1\u00a1Los Toros Negros Cargan!!"
+				},
+				{
+					"number": 164,
+					"title": "\u00a1Los buenos para nada se levantan!"
+				},
+				{
+					"number": 163,
+					"title": "Sonrisas, l\u00e1grimas"
+				},
+				{
+					"number": 162,
+					"title": "Rayo de Furia vs. Amigos"
+				},
+				{
+					"number": 161,
+					"title": "V\u00ednculos humanos"
+				},
+				{
+					"number": 160,
+					"title": "Probablemente no lo sepas"
+				},
+				{
+					"number": 159,
+					"title": "Liberaci\u00f3n del infortunio"
+				},
+				{
+					"number": 158,
+					"title": "La vida del pueblo en los palos"
+				},
+				{
+					"number": 157,
+					"title": "Caer, o salvar el reino"
+				},
+				{
+					"number": 156,
+					"title": "Verdadera forma, verdadero poder"
+				},
+				{
+					"number": 155,
+					"title": "No perderemos ante ti"
+				},
+				{
+					"number": 154,
+					"title": "Viento de Oro"
+				},
+				{
+					"number": 153,
+					"title": "El camino desesperado hacia la supervivencia"
+				},
+				{
+					"number": 152,
+					"title": "Mujer problem\u00e1tica"
+				},
+				{
+					"number": 151,
+					"title": "Desventaja abrumadora"
+				},
+				{
+					"number": 150,
+					"title": "Colapso"
+				},
+				{
+					"number": 149,
+					"title": "Reencarnaci\u00f3n"
+				},
+				{
+					"number": 148,
+					"title": "Hasta ahora"
+				},
+				{
+					"number": 147,
+					"title": "El final y el principio"
+				}
+			]
+		},
+		{
+			"title": "Arco de los Caballeros Reales",
+			"synopsis": "Tras la recuperaci\u00f3n de Asta y los combates contra el Reino del Diamante y el Ojo del Sol de Medianoche, los Toros Negros asisten al Festival de los Premios Estrella. Tras el evento, Asta, Yuno, Yami, Charlotte y Noelle asisten a una sesi\u00f3n de entrenamiento con los Leones Carmes\u00ed dirigida por su capitana interina, Mereoleona Vermillion. Asta y algunos de sus compa\u00f1eros participan en un torneo con otros Caballeros M\u00e1gicos para formar parte de los Caballeros Reales, un escuadr\u00f3n al que se le asignar\u00e1 el deber de atacar la Base del Ojo del Sol de Medianoche. Durante el torneo, un joven sospechoso que se hace llamar Xerx Lugner entra en el torneo en el equipo de Asta.\n\nTraducci\u00f3n realizada con la versi\u00f3n gratuita del traductor www.DeepL.com/Translator",
+			"chapters": [
+				{
+					"number": 146,
+					"title": "El nuevo futuro"
+				},
+				{
+					"number": 145,
+					"title": "Julius Novachrono"
+				},
+				{
+					"number": 144,
+					"title": "Este hombre es..."
+				},
+				{
+					"number": 143,
+					"title": "El Emperador M\u00e1gico contra el L\u00edder del Ojo del Sol de Medianoche"
+				},
+				{
+					"number": 142,
+					"title": "Crep\u00fasculo"
+				},
+				{
+					"number": 141,
+					"title": "La temeraria lucha m\u00e1gica"
+				},
+				{
+					"number": 140,
+					"title": "Probablemente no lo sepas, pero..."
+				},
+				{
+					"number": 139,
+					"title": "El escondite de los toros negros"
+				},
+				{
+					"number": 138,
+					"title": "Asalto"
+				},
+				{
+					"number": 137,
+					"title": "Mereoleona contra Rhya la traidora"
+				},
+				{
+					"number": 136,
+					"title": "Avanzar en las olas de la tormenta"
+				},
+				{
+					"number": 135,
+					"title": "\u00a1\u00a1Ingresi\u00f3n en la base del Ojo del Sol de Medianoche!!"
+				},
+				{
+					"number": 134,
+					"title": "Sue\u00f1o"
+				},
+				{
+					"number": 133,
+					"title": "Formaci\u00f3n de los Caballeros Reales"
+				},
+				{
+					"number": 132,
+					"title": "Ganador"
+				},
+				{
+					"number": 131,
+					"title": "Adelante"
+				},
+				{
+					"number": 130,
+					"title": "Quemar el presente en la memoria"
+				},
+				{
+					"number": 129,
+					"title": "La vida de cierto hombre"
+				},
+				{
+					"number": 128,
+					"title": "Los que luchan hasta el final"
+				},
+				{
+					"number": 127,
+					"title": "Chispas doradas y negras"
+				},
+				{
+					"number": 126,
+					"title": "El hermano menor estudiante de honor contra el hermano mayor chapucero"
+				},
+				{
+					"number": 125,
+					"title": "Fue hermoso"
+				},
+				{
+					"number": 124,
+					"title": "Yankee-Senpai Vs. Muscle Runt"
+				},
+				{
+					"number": 123,
+					"title": "Trampa para campesinos"
+				},
+				{
+					"number": 122,
+					"title": "A mi manera"
+				},
+				{
+					"number": 121,
+					"title": "Crush"
+				},
+				{
+					"number": 120,
+					"title": "Destino"
+				},
+				{
+					"number": 119,
+					"title": "M\u00e1s"
+				},
+				{
+					"number": 118,
+					"title": "Mago X"
+				},
+				{
+					"number": 117,
+					"title": "Los dos magos espaciales"
+				},
+				{
+					"number": 116,
+					"title": "El vicecapit\u00e1n de Coral Peacock"
+				},
+				{
+					"number": 115,
+					"title": "Sin esperanza"
+				},
+				{
+					"number": 114,
+					"title": "Flor de la resoluci\u00f3n"
+				},
+				{
+					"number": 113,
+					"title": "Torneo de Batalla de Destrucci\u00f3n de Cristales"
+				},
+				{
+					"number": 112,
+					"title": "Examen de selecci\u00f3n de los Caballeros Reales"
+				},
+				{
+					"number": 111,
+					"title": "Ba\u00f1arse"
+				},
+				{
+					"number": 110,
+					"title": "El fuego de San Elmo"
+				},
+				{
+					"number": 109,
+					"title": "Sendero Ultime-Volcano Mountain"
+				},
+				{
+					"number": 108,
+					"title": "La leona invicta no coronada"
+				},
+				{
+					"number": 107,
+					"title": "El Rey del Reino del Tr\u00e9bol"
+				},
+				{
+					"number": 106,
+					"title": "Hasta d\u00f3nde hemos llegado"
+				},
+				{
+					"number": 105,
+					"title": "Dos nuevas estrellas"
+				},
+				{
+					"number": 104,
+					"title": "La melancol\u00eda de la doncella de la zarza"
+				},
+				{
+					"number": 103,
+					"title": "Una doble cita del Festival de la diversi\u00f3n"
+				},
+				{
+					"number": 102,
+					"title": "El d\u00eda libre de Asta"
+				}
+			]
+		},
+		{
+			"title": "Arco del Bosque de las Brujas",
+			"synopsis": "Despu\u00e9s de que los Toros Negros consiguieran recuperar la piedra m\u00e1gica y volver a la superficie, los brazos de Asta son revisados por un sanador, que dice que sus brazos nunca volver\u00e1n a ser los mismos. Al o\u00edr esto el equipo se separa para tratar de encontrar una cura para Asta, y Vanessa va a un lugar al que nunca pens\u00f3 que volver\u00eda.",
+			"chapters": [
+				{
+					"number": 101,
+					"title": "Estoy en casa"
+				},
+				{
+					"number": 100,
+					"title": "El hilo rojo del destino"
+				},
+				{
+					"number": 99,
+					"title": "Familia"
+				},
+				{
+					"number": 98,
+					"title": "\u00c9l es quien es"
+				},
+				{
+					"number": 97,
+					"title": "Nada"
+				},
+				{
+					"number": 96,
+					"title": "Transformaci\u00f3n"
+				},
+				{
+					"number": 95,
+					"title": "Los que se refuerzan mutuamente"
+				},
+				{
+					"number": 94,
+					"title": "Un cambio completo"
+				},
+				{
+					"number": 93,
+					"title": "El mundo prometido"
+				},
+				{
+					"number": 92,
+					"title": "No te dejar\u00e9 morir"
+				},
+				{
+					"number": 91,
+					"title": "Explosi\u00f3n de plasma"
+				},
+				{
+					"number": 90,
+					"title": "Estudiantes"
+				},
+				{
+					"number": 89,
+					"title": "Expiaci\u00f3n de los desertores"
+				},
+				{
+					"number": 88,
+					"title": "Empuje de la terminaci\u00f3n"
+				},
+				{
+					"number": 87,
+					"title": "No soy un perdedor"
+				},
+				{
+					"number": 86,
+					"title": "Las llamas del odio"
+				},
+				{
+					"number": 85,
+					"title": "El toro de carga"
+				},
+				{
+					"number": 84,
+					"title": "Decisi\u00f3n en el campo de batalla"
+				},
+				{
+					"number": 83,
+					"title": "Infiltraci\u00f3n"
+				},
+				{
+					"number": 82,
+					"title": "Bosque de las brujas"
+				},
+				{
+					"number": 81,
+					"title": "Un tipo as\u00ed"
+				},
+				{
+					"number": 80,
+					"title": "Nunca m\u00e1s"
+				},
+				{
+					"number": 79,
+					"title": "Detr\u00e1s de la m\u00e1scara"
+				},
+				{
+					"number": 78,
+					"title": "La proclamaci\u00f3n de los d\u00e9biles"
+				},
+				{
+					"number": 77,
+					"title": "Quien sea m\u00e1s fuerte, gana"
+				},
+				{
+					"number": 76,
+					"title": "La escuadra m\u00e1s fuerte"
+				},
+				{
+					"number": 75,
+					"title": "La batalla de Kiten"
+				},
+				{
+					"number": 74,
+					"title": "Prueba de que es correcto"
+				}
+			]
+		},
+		{
+			"title": "Arco del Templo de los Fondos Marinos",
+			"synopsis": "Los Toros Negros reciben una misi\u00f3n especial del Emperador M\u00e1gico: recuperar la piedra m\u00e1gica del Templo del Lecho Marino antes de que lo haga el Ojo del Sol de Medianoche. El sacerdote principal del templo desaf\u00eda a los Caballeros M\u00e1gicos a un juego para obtener la piedra. Pero en medio de este desaf\u00edo hay una interrupci\u00f3n...",
+			"chapters": [
+				{
+					"number": 73,
+					"title": "El fin de la batalla, el fin de la desesperaci\u00f3n"
+				},
+				{
+					"number": 72,
+					"title": "M\u00e1s all\u00e1 del propio l\u00edmite"
+				},
+				{
+					"number": 71,
+					"title": "Abrir el camino del destino"
+				},
+				{
+					"number": 70,
+					"title": "La desesperaci\u00f3n frente a la esperanza"
+				},
+				{
+					"number": 69,
+					"title": "Mi \u00fanica arma"
+				},
+				{
+					"number": 68,
+					"title": "Despertar"
+				},
+				{
+					"number": 67,
+					"title": "Bonos"
+				},
+				{
+					"number": 66,
+					"title": "La verdadera forma"
+				},
+				{
+					"number": 65,
+					"title": "El hombre que no se rinde"
+				},
+				{
+					"number": 64,
+					"title": "Una bola de fuego sin filtrar y un rayo salvaje"
+				},
+				{
+					"number": 63,
+					"title": "Un juego con vidas en juego"
+				},
+				{
+					"number": 62,
+					"title": "El fuerte reinado"
+				},
+				{
+					"number": 61,
+					"title": "Temple Battle Royale"
+				},
+				{
+					"number": 60,
+					"title": "El juego del Sumo Sacerdote"
+				},
+				{
+					"number": 59,
+					"title": "Templo de los fondos marinos"
+				},
+				{
+					"number": 58,
+					"title": "La historia del ni\u00f1o del agua que crece"
+				},
+				{
+					"number": 57,
+					"title": "Una historia de la playa negra"
+				}
+			]
+		},
+		{
+			"title": "Arco de encuentro del Ojo del Sol de Medianoche",
+			"synopsis": "Este arco gira en torno al secuestro de ni\u00f1os de Nairn, que es manipulado por Sally, miembro del Ojo del Sol de Medianoche. Esto provoca un conflicto entre el grupo de magos renegados y la Orden de los Caballeros M\u00e1gicos del Reino del Tr\u00e9bol.",
+			"chapters": [
+				{
+					"number": 56,
+					"title": "Saludo de tres hojas"
+				},
+				{
+					"number": 55,
+					"title": "Los capitanes y el campesino"
+				},
+				{
+					"number": 54,
+					"title": "Reuni\u00f3n de los Capitanes de los Caballeros M\u00e1gicos"
+				},
+				{
+					"number": 53,
+					"title": "No son tuyos"
+				},
+				{
+					"number": 52,
+					"title": "El que no tiene magia"
+				},
+				{
+					"number": 51,
+					"title": "Tercer ojo"
+				},
+				{
+					"number": 50,
+					"title": "La luz del juicio"
+				},
+				{
+					"number": 49,
+					"title": "Pecar por pecar"
+				},
+				{
+					"number": 48,
+					"title": "Ki"
+				},
+				{
+					"number": 47,
+					"title": "Magia de la Luz vs. Magia Oscura"
+				},
+				{
+					"number": 46,
+					"title": "El hombre que corta la muerte"
+				},
+				{
+					"number": 45,
+					"title": "Para ayudar a alguien alg\u00fan d\u00eda"
+				},
+				{
+					"number": 44,
+					"title": "Hermanos"
+				},
+				{
+					"number": 43,
+					"title": "La locura del remolino"
+				},
+				{
+					"number": 42,
+					"title": "Brotes de tres hojas"
+				},
+				{
+					"number": 41,
+					"title": "Flash"
+				},
+				{
+					"number": 40,
+					"title": "Persecuci\u00f3n en la nieve"
+				},
+				{
+					"number": 39,
+					"title": "El mago de los espejos"
+				},
+				{
+					"number": 38,
+					"title": "El que est\u00e1 en mi coraz\u00f3n"
+				}
+			]
+		},
+		{
+			"title": "Arco de Asalto de la Capital Real",
+			"synopsis": "Asta y Noelle Silva son invitadas a una ceremonia de entrega de premios por Julius Novachrono junto con Klaus Lunette, Yuno y Mimosa Vermilion tras completar la misi\u00f3n de exploraci\u00f3n de mazmorras. Durante el banquete, la capital real est\u00e1 siendo invadida por un ej\u00e9rcito de muertos vivientes.",
+			"chapters": [
+				{
+					"number": 37,
+					"title": "Cuando nos encontremos de nuevo"
+				},
+				{
+					"number": 36,
+					"title": "Luz"
+				},
+				{
+					"number": 35,
+					"title": "El hombre m\u00e1s fuerte"
+				},
+				{
+					"number": 34,
+					"title": "Bestias heridas"
+				},
+				{
+					"number": 33,
+					"title": "Adversidad"
+				},
+				{
+					"number": 32,
+					"title": "El que espera en el coraz\u00f3n de las tinieblas"
+				},
+				{
+					"number": 31,
+					"title": "Le\u00f3n Carmes\u00ed"
+				},
+				{
+					"number": 30,
+					"title": "Un nuevo rival"
+				},
+				{
+					"number": 29,
+					"title": "Odia perder"
+				},
+				{
+					"number": 28,
+					"title": "Blackout"
+				},
+				{
+					"number": 27,
+					"title": "Podemos ser m\u00e1s fuertes"
+				},
+				{
+					"number": 26,
+					"title": "Danza m\u00e1gica salvaje"
+				},
+				{
+					"number": 25,
+					"title": "Cad\u00e1veres en marcha"
+				},
+				{
+					"number": 24,
+					"title": "Mot\u00edn de la capital real"
+				},
+				{
+					"number": 23,
+					"title": "Ceremonia de concesi\u00f3n de m\u00e9ritos de guerra"
+				},
+				{
+					"number": 22,
+					"title": "Reuni\u00f3n de la Capital Real"
+				}
+			]
+		},
+		{
+			"title": "Arco de exploraci\u00f3n de mazmorras",
+			"synopsis": "Asta, Luck Voltia y Noelle Silva, del escuadr\u00f3n Toro Negro, son asignados a explorar y conquistar una mazmorra junto con Yuno, Klaus Lunette y Mimosa Vermilion, del escuadr\u00f3n Amanecer Dorado. El conflicto surge cuando se encuentran con los magos del Reino del Diamante.",
+			"chapters": [
+				{
+					"number": 21,
+					"title": "Colapso y alivio"
+				},
+				{
+					"number": 20,
+					"title": "Al instante"
+				},
+				{
+					"number": 19,
+					"title": "Recuerdos de ti"
+				},
+				{
+					"number": 18,
+					"title": "En la parte trasera del Tesoro"
+				},
+				{
+					"number": 17,
+					"title": "Destructor"
+				},
+				{
+					"number": 16,
+					"title": "Combate a Muerte"
+				},
+				{
+					"number": 15,
+					"title": "Tres personas"
+				},
+				{
+					"number": 14,
+					"title": "Camarada"
+				},
+				{
+					"number": 13,
+					"title": "Mago de Diamante"
+				},
+				{
+					"number": 12,
+					"title": "Reuni\u00f3n"
+				},
+				{
+					"number": 11,
+					"title": "Mazmorra"
+				}
+			]
+		},
+		{
+			"title": "Arco de entrada de los Caballeros M\u00e1gicos",
+			"synopsis": "Asta y Yuno son hu\u00e9rfanos criados en Hage. Cuando alcanzan los 15 a\u00f1os, ambas reciben sus respectivos grimorios y entran en las escuadras de los Caballeros M\u00e1gicos. Asta va al escuadr\u00f3n del Toro Negro, mientras que Yuno elige el escuadr\u00f3n del Amanecer Dorado.",
+			"chapters": [
+				{
+					"number": 10,
+					"title": "Lo que pas\u00f3 un d\u00eda en la ciudad del castillo"
+				},
+				{
+					"number": 9,
+					"title": "El voto del ni\u00f1o 2"
+				},
+				{
+					"number": 8,
+					"title": "Para proteger a alguien"
+				},
+				{
+					"number": 7,
+					"title": "Brutos"
+				},
+				{
+					"number": 6,
+					"title": "Go Go Primera Misi\u00f3n"
+				},
+				{
+					"number": 5,
+					"title": "El otro nuevo miembro"
+				},
+				{
+					"number": 4,
+					"title": "Toro negro"
+				},
+				{
+					"number": 3,
+					"title": "El camino hacia el Emperador M\u00e1gico"
+				},
+				{
+					"number": 2,
+					"title": "Examen de ingreso a los Caballeros M\u00e1gicos"
+				},
+				{
+					"number": 1,
+					"title": "El voto del ni\u00f1o"
+				}
+			]
+		}
+	]
+}

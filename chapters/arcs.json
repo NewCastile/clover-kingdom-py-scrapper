@@ -1,0 +1,1356 @@
+{
+    "arcs":[
+        {
+            "title":"Spade Kingdom Raid Arc",
+            "synopsis":"The Clover and Heart Kingdoms organize their forces to raid the Spade Kingdom and retrieve the captured captains and princess, as well as to stop the Dark Triad from unleashing devils onto the continent.",
+            "chapters":[
+                {
+                    "number":323,
+                    "title":"Partner"
+                },
+                {
+                    "number":322,
+                    "title":"The Vice-Captain of the Black Bulls"
+                },
+                {
+                    "number":321,
+                    "title":"Excuses"
+                },
+                {
+                    "number":320,
+                    "title":"The Cause of All This"
+                },
+                {
+                    "number":319,
+                    "title":"Grand Magic Knights vs. King of Devils"
+                },
+                {
+                    "number":318,
+                    "title":"In the Presence of the Devil King"
+                },
+                {
+                    "number":317,
+                    "title":"Change"
+                },
+                {
+                    "number":316,
+                    "title":"Slash of the Unchosen"
+                },
+                {
+                    "number":315,
+                    "title":"Ultra Giant Showdown"
+                },
+                {
+                    "number":314,
+                    "title":"The Mass"
+                },
+                {
+                    "number":313,
+                    "title":"The Captain of the Black Bulls"
+                },
+                {
+                    "number":312,
+                    "title":"Before the Door of Hell"
+                },
+                {
+                    "number":311,
+                    "title":"Make it Home Alive"
+                },
+                {
+                    "number":310,
+                    "title":"Unyielding Right and Wrong"
+                },
+                {
+                    "number":309,
+                    "title":"Blink"
+                },
+                {
+                    "number":308,
+                    "title":"Yuno Grinberryall"
+                },
+                {
+                    "number":307,
+                    "title":"A Devil's Heart"
+                },
+                {
+                    "number":306,
+                    "title":"Boundary"
+                },
+                {
+                    "number":305,
+                    "title":"The Vice Captain of the Golden Dawn"
+                },
+                {
+                    "number":304,
+                    "title":"Reality and Magic"
+                },
+                {
+                    "number":303,
+                    "title":"Glad Tidings"
+                },
+                {
+                    "number":302,
+                    "title":"Convergence of Hope"
+                },
+                {
+                    "number":301,
+                    "title":"Those Feelings"
+                },
+                {
+                    "number":300,
+                    "title":"Beyond Tenacity"
+                },
+                {
+                    "number":299,
+                    "title":"The Sound of the End"
+                },
+                {
+                    "number":298,
+                    "title":"Transient Life"
+                },
+                {
+                    "number":297,
+                    "title":"Advent"
+                },
+                {
+                    "number":296,
+                    "title":"The Sacred Valkyrie"
+                },
+                {
+                    "number":295,
+                    "title":"Revenge Match"
+                },
+                {
+                    "number":294,
+                    "title":"As Promised"
+                },
+                {
+                    "number":293,
+                    "title":"Smash Injustice"
+                },
+                {
+                    "number":292,
+                    "title":"Knowing"
+                },
+                {
+                    "number":291,
+                    "title":"A Duel with a Distant Inferior"
+                },
+                {
+                    "number":290,
+                    "title":"The Highest vs. the Lowest"
+                },
+                {
+                    "number":289,
+                    "title":"Freezing Sun"
+                },
+                {
+                    "number":288,
+                    "title":"Manifest"
+                },
+                {
+                    "number":287,
+                    "title":"Day of Atonement"
+                },
+                {
+                    "number":286,
+                    "title":"A Night With No Morning"
+                },
+                {
+                    "number":285,
+                    "title":"A Hellish Game of Tag"
+                },
+                {
+                    "number":284,
+                    "title":"Ultimate Magic"
+                },
+                {
+                    "number":283,
+                    "title":"A Huge Melee"
+                },
+                {
+                    "number":282,
+                    "title":"Black Guardian"
+                },
+                {
+                    "number":281,
+                    "title":"Assault on the Kingdom"
+                },
+                {
+                    "number":280,
+                    "title":"Surging Disaster"
+                },
+                {
+                    "number":279,
+                    "title":"The Door to Hell"
+                },
+                {
+                    "number":278,
+                    "title":"The Mantis's Hatchets"
+                },
+                {
+                    "number":277,
+                    "title":"Queen of Briars"
+                },
+                {
+                    "number":276,
+                    "title":"Boreas"
+                },
+                {
+                    "number":275,
+                    "title":"Hellfire Incarnate"
+                },
+                {
+                    "number":274,
+                    "title":"The Battle Begins"
+                },
+                {
+                    "number":273,
+                    "title":"Day of Destiny"
+                },
+                {
+                    "number":272,
+                    "title":"Dark Prison Hunting Ground"
+                },
+                {
+                    "number":271,
+                    "title":"Union"
+                },
+                {
+                    "number":270,
+                    "title":"Together"
+                },
+                {
+                    "number":269,
+                    "title":"The One Who Can't Use Magic"
+                },
+                {
+                    "number":268,
+                    "title":"Devil"
+                },
+                {
+                    "number":267,
+                    "title":"The Devil-Binding Ritual"
+                },
+                {
+                    "number":266,
+                    "title":"Dark Garden Invitation"
+                },
+                {
+                    "number":265,
+                    "title":"Elysia"
+                },
+                {
+                    "number":264,
+                    "title":"Stirrings of the Strongest"
+                },
+                {
+                    "number":263,
+                    "title":"Shadow Intel"
+                },
+                {
+                    "number":262,
+                    "title":"A Turbulent Conference"
+                },
+                {
+                    "number":261,
+                    "title":"Shadows of Night"
+                }
+            ]
+        },
+        {
+            "title":"Heart Kingdom Joint Struggle Arc",
+            "synopsis":"Following the six months of training, Asta and the other members of the Magic Knights begin to work along side the mages of the Heart Kingdom in their fight against the Spade Kingdom and the Dark Triad, as well as the devils.",
+            "chapters":[
+                {
+                    "number":260,
+                    "title":"Dark Out"
+                },
+                {
+                    "number":259,
+                    "title":"Raging Bull Unison"
+                },
+                {
+                    "number":258,
+                    "title":"Black Oath"
+                },
+                {
+                    "number":257,
+                    "title":"Rise to Action"
+                },
+                {
+                    "number":256,
+                    "title":"A Captain's Duty"
+                },
+                {
+                    "number":255,
+                    "title":"Exploding Life"
+                },
+                {
+                    "number":254,
+                    "title":"Power Differential"
+                },
+                {
+                    "number":253,
+                    "title":"Bloodshed"
+                },
+                {
+                    "number":252,
+                    "title":"Water Crusade"
+                },
+                {
+                    "number":251,
+                    "title":"The Curse Devil"
+                },
+                {
+                    "number":250,
+                    "title":"Charmy vs. Halbet"
+                },
+                {
+                    "number":249,
+                    "title":"Leopold vs. Sivoir"
+                },
+                {
+                    "number":248,
+                    "title":"Luck vs. Svenkin"
+                },
+                {
+                    "number":247,
+                    "title":"Battlefield: Heart Kingdom"
+                },
+                {
+                    "number":246,
+                    "title":"The Tree of Qliphoth"
+                },
+                {
+                    "number":245,
+                    "title":"Dante vs. the Captain of the Black Bulls"
+                },
+                {
+                    "number":244,
+                    "title":"Cinderella Grey"
+                },
+                {
+                    "number":243,
+                    "title":"Devil Host vs. Devil Host"
+                },
+                {
+                    "number":242,
+                    "title":"Humans and Evil"
+                },
+                {
+                    "number":241,
+                    "title":"Super Midair Battle"
+                },
+                {
+                    "number":240,
+                    "title":"The Great War Breaks Out"
+                },
+                {
+                    "number":239,
+                    "title":"Budding of Yggdrasil"
+                },
+                {
+                    "number":238,
+                    "title":"Zenon's Power"
+                },
+                {
+                    "number":237,
+                    "title":"Sheer Obstinacy"
+                },
+                {
+                    "number":236,
+                    "title":"There's No Way We're the Same"
+                },
+                {
+                    "number":235,
+                    "title":"Dark Disciples"
+                },
+                {
+                    "number":234,
+                    "title":"The Messenger from the Spade Kingdom"
+                },
+                {
+                    "number":233,
+                    "title":"Fate Begins to Move"
+                },
+                {
+                    "number":232,
+                    "title":"Quiet Lakes and Forest Shadows"
+                },
+                {
+                    "number":231,
+                    "title":"The Dark Triad"
+                },
+                {
+                    "number":230,
+                    "title":"I'll Crush You"
+                },
+                {
+                    "number":229,
+                    "title":"The Beginning of Hope and Despair"
+                }
+            ]
+        },
+        {
+            "title":"Elf Reincarnation Arc",
+            "synopsis":"With the Royal Knights having been selected, they begin their attack on the base of the Eye of the Midnight Sun. During the battle, things do not go as planned when many of the Knights turn against each other when the Elf Tribe is reincarnated into them.",
+            "chapters":[
+                {
+                    "number":228,
+                    "title":"Arcane Stage Mages"
+                },
+                {
+                    "number":227,
+                    "title":"The All-Knowing Priestess"
+                },
+                {
+                    "number":226,
+                    "title":"The Spirit Guardian's Magic"
+                },
+                {
+                    "number":225,
+                    "title":"The Heart Kingdom"
+                },
+                {
+                    "number":224,
+                    "title":"You Are Cursed"
+                },
+                {
+                    "number":223,
+                    "title":"The Agrippa Family"
+                },
+                {
+                    "number":222,
+                    "title":"Just Between Us"
+                },
+                {
+                    "number":221,
+                    "title":"The Blue Rose's Confession"
+                },
+                {
+                    "number":220,
+                    "title":"Visits"
+                },
+                {
+                    "number":219,
+                    "title":"As Pitch Black as It Gets"
+                },
+                {
+                    "number":218,
+                    "title":"The Worst of the Worst"
+                },
+                {
+                    "number":217,
+                    "title":"The Scales of Justice"
+                },
+                {
+                    "number":216,
+                    "title":"Power Balance"
+                },
+                {
+                    "number":215,
+                    "title":"Three Problems"
+                },
+                {
+                    "number":214,
+                    "title":"Dawn"
+                },
+                {
+                    "number":213,
+                    "title":"The Great Soul Tree"
+                },
+                {
+                    "number":212,
+                    "title":"Destiny's End"
+                },
+                {
+                    "number":211,
+                    "title":"The Final Attack"
+                },
+                {
+                    "number":210,
+                    "title":"On the Brink"
+                },
+                {
+                    "number":209,
+                    "title":"Wish"
+                },
+                {
+                    "number":208,
+                    "title":"Swords"
+                },
+                {
+                    "number":207,
+                    "title":"Ultimate Magic"
+                },
+                {
+                    "number":206,
+                    "title":"A Reunion Across Time and Space"
+                },
+                {
+                    "number":205,
+                    "title":"The Truth of 500 Years"
+                },
+                {
+                    "number":204,
+                    "title":"Last Wish"
+                },
+                {
+                    "number":203,
+                    "title":"Breaking the Seal"
+                },
+                {
+                    "number":202,
+                    "title":"From Another World"
+                },
+                {
+                    "number":201,
+                    "title":"The Top Level of the Shadow Palace"
+                },
+                {
+                    "number":200,
+                    "title":"World of Light"
+                },
+                {
+                    "number":199,
+                    "title":"The Ultimate Natural Enemy"
+                },
+                {
+                    "number":198,
+                    "title":"The Five-Leaf Grimoire"
+                },
+                {
+                    "number":197,
+                    "title":"False Hope"
+                },
+                {
+                    "number":196,
+                    "title":"Mastermind"
+                },
+                {
+                    "number":195,
+                    "title":"A Complete Change"
+                },
+                {
+                    "number":194,
+                    "title":"Outrage"
+                },
+                {
+                    "number":193,
+                    "title":"The Final Invaders"
+                },
+                {
+                    "number":192,
+                    "title":"Two Crimson Fists"
+                },
+                {
+                    "number":191,
+                    "title":"Storming the Shadow Palace"
+                },
+                {
+                    "number":190,
+                    "title":"Go!!!!"
+                },
+                {
+                    "number":189,
+                    "title":"Humans Who Can Be Trusted"
+                },
+                {
+                    "number":188,
+                    "title":"Why I Lived This Long"
+                },
+                {
+                    "number":187,
+                    "title":"Battle in the Space Between Heaven and Earth"
+                },
+                {
+                    "number":186,
+                    "title":"The Eyes in the Mirror"
+                },
+                {
+                    "number":185,
+                    "title":"Dream Encounter"
+                },
+                {
+                    "number":184,
+                    "title":"Dream World"
+                },
+                {
+                    "number":183,
+                    "title":"The Raging Bull Joins the Showdown!!"
+                },
+                {
+                    "number":182,
+                    "title":"The Apostles of Sephirah"
+                },
+                {
+                    "number":181,
+                    "title":"Spatial Mage Brothers"
+                },
+                {
+                    "number":180,
+                    "title":"Sharpened Blades"
+                },
+                {
+                    "number":179,
+                    "title":"Battle of the King's Room"
+                },
+                {
+                    "number":178,
+                    "title":"Human Magic"
+                },
+                {
+                    "number":177,
+                    "title":"Battlefield Dancer"
+                },
+                {
+                    "number":176,
+                    "title":"Siblings"
+                },
+                {
+                    "number":175,
+                    "title":"The Silvas' Battle"
+                },
+                {
+                    "number":174,
+                    "title":"Flying In"
+                },
+                {
+                    "number":173,
+                    "title":"Final Battle at Clover Castle"
+                },
+                {
+                    "number":172,
+                    "title":"Rebirth"
+                },
+                {
+                    "number":171,
+                    "title":"The Sleeping Lion"
+                },
+                {
+                    "number":170,
+                    "title":"The Fallen Make Their Move"
+                },
+                {
+                    "number":169,
+                    "title":"The Black Bulls Captain vs. the Crimson Wild Rose"
+                },
+                {
+                    "number":168,
+                    "title":"Vs. People Who Swore Loyalty to the Same Man"
+                },
+                {
+                    "number":167,
+                    "title":"Path of Revenge, Path of Atonement"
+                },
+                {
+                    "number":166,
+                    "title":"The Resurrected Avenger"
+                },
+                {
+                    "number":165,
+                    "title":"The Black Bulls Charge!!!"
+                },
+                {
+                    "number":164,
+                    "title":"The Good-For-Nothings Rise Up!!"
+                },
+                {
+                    "number":163,
+                    "title":"Smiles, Tears"
+                },
+                {
+                    "number":162,
+                    "title":"Lightning of Rage vs. Friends"
+                },
+                {
+                    "number":161,
+                    "title":"Human Bonds"
+                },
+                {
+                    "number":160,
+                    "title":"You Probably Don't Know"
+                },
+                {
+                    "number":159,
+                    "title":"Release from Misfortune"
+                },
+                {
+                    "number":158,
+                    "title":"The Lives of the Village in the Sticks"
+                },
+                {
+                    "number":157,
+                    "title":"Fall, or Save the Kingdom"
+                },
+                {
+                    "number":156,
+                    "title":"True Form, True Power"
+                },
+                {
+                    "number":155,
+                    "title":"We Won't Lose to You"
+                },
+                {
+                    "number":154,
+                    "title":"Golden Wind"
+                },
+                {
+                    "number":153,
+                    "title":"The Desperate Path Toward Survival"
+                },
+                {
+                    "number":152,
+                    "title":"Troublesome Woman"
+                },
+                {
+                    "number":151,
+                    "title":"Overwhelming Disadvantage"
+                },
+                {
+                    "number":150,
+                    "title":"Collapse"
+                },
+                {
+                    "number":149,
+                    "title":"Reincarnation"
+                },
+                {
+                    "number":148,
+                    "title":"Until Now"
+                },
+                {
+                    "number":147,
+                    "title":"The End and the Beginning"
+                }
+            ]
+        },
+        {
+            "title":"Royal Knights Arc",
+            "synopsis":"Following Asta's recovery and fights against the Diamond Kingdom as well as the Eye of the Midnight Sun, the Black Bulls attend the Star Awards Festival. After the event, Asta, Yuno, Yami, Charlotte, and Noelle attend a training session with the Crimson Lions led by their interim captain, Mereoleona Vermillion. Asta and some of his comrades enter a tournament with other Magic Knights to become a part of the Royal Knights, a squad that will be assigned the duty of attacking the Eye of the Midnight Sun's Base. During the tournament, a suspicious young man calling himself Xerx Lugner enters the tournament on Asta's team.",
+            "chapters":[
+                {
+                    "number":146,
+                    "title":"The New Future"
+                },
+                {
+                    "number":145,
+                    "title":"Julius Novachrono"
+                },
+                {
+                    "number":144,
+                    "title":"This Man Is..."
+                },
+                {
+                    "number":143,
+                    "title":"The Magic Emperor vs. the Leader of the Eye of the Midnight Sun"
+                },
+                {
+                    "number":142,
+                    "title":"Twilight"
+                },
+                {
+                    "number":141,
+                    "title":"The Reckless Magic Fight"
+                },
+                {
+                    "number":140,
+                    "title":"You Probably Don't Know, But..."
+                },
+                {
+                    "number":139,
+                    "title":"The Black Bulls' Hideout"
+                },
+                {
+                    "number":138,
+                    "title":"Assault"
+                },
+                {
+                    "number":137,
+                    "title":"Mereoleona vs. Rhya the Treachery"
+                },
+                {
+                    "number":136,
+                    "title":"Advancing in Surging Waves"
+                },
+                {
+                    "number":135,
+                    "title":"Breaking into the Eye of the Midnight Sun's Base!!!"
+                },
+                {
+                    "number":134,
+                    "title":"Dream"
+                },
+                {
+                    "number":133,
+                    "title":"Formation of the Royal Knights"
+                },
+                {
+                    "number":132,
+                    "title":"Winner"
+                },
+                {
+                    "number":131,
+                    "title":"Ahead"
+                },
+                {
+                    "number":130,
+                    "title":"Burn the Present into Memory"
+                },
+                {
+                    "number":129,
+                    "title":"The Life of a Certain Man"
+                },
+                {
+                    "number":128,
+                    "title":"Those Who Fight Until the End"
+                },
+                {
+                    "number":127,
+                    "title":"Gold and Black Sparks"
+                },
+                {
+                    "number":126,
+                    "title":"The Honor Student Younger Brother vs. the Bungling Older Brother"
+                },
+                {
+                    "number":125,
+                    "title":"It Was Beautiful"
+                },
+                {
+                    "number":124,
+                    "title":"Yankee-Senpai Vs. Muscle Runt"
+                },
+                {
+                    "number":123,
+                    "title":"Peasant Trap"
+                },
+                {
+                    "number":122,
+                    "title":"My Way"
+                },
+                {
+                    "number":121,
+                    "title":"Crush"
+                },
+                {
+                    "number":120,
+                    "title":"Destiny"
+                },
+                {
+                    "number":119,
+                    "title":"More"
+                },
+                {
+                    "number":118,
+                    "title":"Mage X"
+                },
+                {
+                    "number":117,
+                    "title":"The Two Spatial Mages"
+                },
+                {
+                    "number":116,
+                    "title":"Coral Peacock's Vice-Captain"
+                },
+                {
+                    "number":115,
+                    "title":"Hopeless"
+                },
+                {
+                    "number":114,
+                    "title":"Flower of Resolution"
+                },
+                {
+                    "number":113,
+                    "title":"Crystal Destruction Battle Tournament"
+                },
+                {
+                    "number":112,
+                    "title":"Royal Knights Selection Exam"
+                },
+                {
+                    "number":111,
+                    "title":"Taking a Bath"
+                },
+                {
+                    "number":110,
+                    "title":"Saint Elmo's Fire"
+                },
+                {
+                    "number":109,
+                    "title":"Ultime-Volcano Mountain Trail"
+                },
+                {
+                    "number":108,
+                    "title":"The Uncrowned Undefeated Lioness"
+                },
+                {
+                    "number":107,
+                    "title":"The King of Clover Kingdom"
+                },
+                {
+                    "number":106,
+                    "title":"How Far We've Come"
+                },
+                {
+                    "number":105,
+                    "title":"Two New Stars"
+                },
+                {
+                    "number":104,
+                    "title":"The Briar Maiden's Melancholy"
+                },
+                {
+                    "number":103,
+                    "title":"A Fun Festival Double-Date"
+                },
+                {
+                    "number":102,
+                    "title":"Asta's Day Off"
+                }
+            ]
+        },
+        {
+            "title":"Witches' Forest Arc",
+            "synopsis":"After the Black Bulls managed to retrieve the magic stone and get back to the surface, Asta's arms gets checked by a healer, who says that his arms may never be the same again. Hearing this the team splits up to try and find a cure for Asta, and Vanessa goes to a place she never thought she would return to.",
+            "chapters":[
+                {
+                    "number":101,
+                    "title":"I'm Home"
+                },
+                {
+                    "number":100,
+                    "title":"The Red Thread of Fate"
+                },
+                {
+                    "number":99,
+                    "title":"Family"
+                },
+                {
+                    "number":98,
+                    "title":"He Is Who He Is"
+                },
+                {
+                    "number":97,
+                    "title":"Nothing"
+                },
+                {
+                    "number":96,
+                    "title":"Transformation"
+                },
+                {
+                    "number":95,
+                    "title":"Those Who Boost Each Other Up"
+                },
+                {
+                    "number":94,
+                    "title":"A Complete Change"
+                },
+                {
+                    "number":93,
+                    "title":"The Promised World"
+                },
+                {
+                    "number":92,
+                    "title":"I Won't Let You Die"
+                },
+                {
+                    "number":91,
+                    "title":"Plasma Explosion"
+                },
+                {
+                    "number":90,
+                    "title":"Students"
+                },
+                {
+                    "number":89,
+                    "title":"Defectors' Atonement"
+                },
+                {
+                    "number":88,
+                    "title":"Thrust of the Finisher"
+                },
+                {
+                    "number":87,
+                    "title":"I'm Not a Loser"
+                },
+                {
+                    "number":86,
+                    "title":"Flames of Hatred"
+                },
+                {
+                    "number":85,
+                    "title":"The Charging Bull"
+                },
+                {
+                    "number":84,
+                    "title":"Decision at the Battlefield"
+                },
+                {
+                    "number":83,
+                    "title":"Infiltration"
+                },
+                {
+                    "number":82,
+                    "title":"Witches' Forest"
+                },
+                {
+                    "number":81,
+                    "title":"A Guy Like That"
+                },
+                {
+                    "number":80,
+                    "title":"Never Again"
+                },
+                {
+                    "number":79,
+                    "title":"Behind the Mask"
+                },
+                {
+                    "number":78,
+                    "title":"The Weak's Proclamation"
+                },
+                {
+                    "number":77,
+                    "title":"Whoever's Strongest Wins"
+                },
+                {
+                    "number":76,
+                    "title":"The Strongest Squad"
+                },
+                {
+                    "number":75,
+                    "title":"The Battle of Kiten"
+                },
+                {
+                    "number":74,
+                    "title":"Proof of Being Correct"
+                }
+            ]
+        },
+        {
+            "title":"Seabed Temple Arc",
+            "synopsis":"The Black Bulls get assigned a special mission from the Magic Emperor: to retrieve the magic stone in the Seabed Temple before the Eye of the Midnight Sun does. The head priest of the temple challenges the Magic Knights to a game in order to obtain the stone. But in the middle of this challenge there is an interruption...",
+            "chapters":[
+                {
+                    "number":73,
+                    "title":"The End of Battle, the End of Despair"
+                },
+                {
+                    "number":72,
+                    "title":"Beyond One's Limit"
+                },
+                {
+                    "number":71,
+                    "title":"Open the Path of Destiny"
+                },
+                {
+                    "number":70,
+                    "title":"Despair Versus Hope"
+                },
+                {
+                    "number":69,
+                    "title":"My Only Weapon"
+                },
+                {
+                    "number":68,
+                    "title":"Awakening"
+                },
+                {
+                    "number":67,
+                    "title":"Bonds"
+                },
+                {
+                    "number":66,
+                    "title":"The True Form"
+                },
+                {
+                    "number":65,
+                    "title":"The Man That Doesn't Give Up"
+                },
+                {
+                    "number":64,
+                    "title":"An Unfiltered Fireball and a Wild Lightning Bolt"
+                },
+                {
+                    "number":63,
+                    "title":"A Game with Lives on the Line"
+                },
+                {
+                    "number":62,
+                    "title":"The Strong Reign"
+                },
+                {
+                    "number":61,
+                    "title":"Temple Battle Royale"
+                },
+                {
+                    "number":60,
+                    "title":"The Game of the High Priest"
+                },
+                {
+                    "number":59,
+                    "title":"Seabed Temple"
+                },
+                {
+                    "number":58,
+                    "title":"The Story of the Growing Water Child"
+                },
+                {
+                    "number":57,
+                    "title":"A Black Beach Story"
+                }
+            ]
+        },
+        {
+            "title":"Eye of the Midnight Sun Encounter Arc",
+            "synopsis":"This arc revolves around the kidnapping of children from Nairn, which is manipulated by Sally, a member of the Eye of the Midnight Sun. It causes a conflict between the group of rogue mages and Clover Kingdom's Order of Magic Knights.",
+            "chapters":[
+                {
+                    "number":56,
+                    "title":"Three-Leaf Salute"
+                },
+                {
+                    "number":55,
+                    "title":"The Captains and the Peasant Boy"
+                },
+                {
+                    "number":54,
+                    "title":"A Meeting of the Magic Knight Captains"
+                },
+                {
+                    "number":53,
+                    "title":"They're Not Yours"
+                },
+                {
+                    "number":52,
+                    "title":"The One with No Magic"
+                },
+                {
+                    "number":51,
+                    "title":"Third Eye"
+                },
+                {
+                    "number":50,
+                    "title":"The Light of Judgment"
+                },
+                {
+                    "number":49,
+                    "title":"Sin for Sin"
+                },
+                {
+                    "number":48,
+                    "title":"Ki"
+                },
+                {
+                    "number":47,
+                    "title":"Light Magic vs. Dark Magic"
+                },
+                {
+                    "number":46,
+                    "title":"The Man Who Cuts Death"
+                },
+                {
+                    "number":45,
+                    "title":"To Help Somebody Someday"
+                },
+                {
+                    "number":44,
+                    "title":"Siblings"
+                },
+                {
+                    "number":43,
+                    "title":"The Swirling Madness"
+                },
+                {
+                    "number":42,
+                    "title":"Three-Leaf Sprouts"
+                },
+                {
+                    "number":41,
+                    "title":"Flash"
+                },
+                {
+                    "number":40,
+                    "title":"Snowy Pursuit"
+                },
+                {
+                    "number":39,
+                    "title":"The Mirror Mage"
+                },
+                {
+                    "number":38,
+                    "title":"The One Set in My Heart"
+                }
+            ]
+        },
+        {
+            "title":"Royal Capital Assault Arc",
+            "synopsis":"Asta and Noelle Silva are invited to an awarding ceremony by Julius Novachrono along with Klaus Lunette, Yuno and Mimosa Vermilion after completing the dungeon exploring mission. During the banquet, the Royal Capital is being invaded by an army of the undead.",
+            "chapters":[
+                {
+                    "number":37,
+                    "title":"When We Meet Next"
+                },
+                {
+                    "number":36,
+                    "title":"Light"
+                },
+                {
+                    "number":35,
+                    "title":"The Strongest Man"
+                },
+                {
+                    "number":34,
+                    "title":"Wounded Beasts"
+                },
+                {
+                    "number":33,
+                    "title":"Adversity"
+                },
+                {
+                    "number":32,
+                    "title":"The One who Waits in the Heart of Darkness"
+                },
+                {
+                    "number":31,
+                    "title":"Crimson Lion"
+                },
+                {
+                    "number":30,
+                    "title":"A New Rival"
+                },
+                {
+                    "number":29,
+                    "title":"Hates to Lose"
+                },
+                {
+                    "number":28,
+                    "title":"Blackout"
+                },
+                {
+                    "number":27,
+                    "title":"We can become Stronger"
+                },
+                {
+                    "number":26,
+                    "title":"Magic Wild Dance"
+                },
+                {
+                    "number":25,
+                    "title":"Marching Corpses"
+                },
+                {
+                    "number":24,
+                    "title":"Royal Capital Riot"
+                },
+                {
+                    "number":23,
+                    "title":"War Merits Conferment Ceremony"
+                },
+                {
+                    "number":22,
+                    "title":"Royal Capital Gathering"
+                }
+            ]
+        },
+        {
+            "title":"Dungeon Exploration Arc",
+            "synopsis":"Asta, Luck Voltia, and Noelle Silva of the Black Bull squad are assigned to explore and conquer a dungeon along with Yuno, Klaus Lunette, and Mimosa Vermilion of the Golden Dawn squad. A conflict arises when they encounter the mages from the Diamond Kingdom.",
+            "chapters":[
+                {
+                    "number":21,
+                    "title":"Collapse and Relief"
+                },
+                {
+                    "number":20,
+                    "title":"Instant"
+                },
+                {
+                    "number":19,
+                    "title":"Memories of You"
+                },
+                {
+                    "number":18,
+                    "title":"At the Back of the Treasury"
+                },
+                {
+                    "number":17,
+                    "title":"Destroyer"
+                },
+                {
+                    "number":16,
+                    "title":"Death Match"
+                },
+                {
+                    "number":15,
+                    "title":"Three People"
+                },
+                {
+                    "number":14,
+                    "title":"Comrade"
+                },
+                {
+                    "number":13,
+                    "title":"Mage of Diamond"
+                },
+                {
+                    "number":12,
+                    "title":"Reunion"
+                },
+                {
+                    "number":11,
+                    "title":"Dungeon"
+                }
+            ]
+        },
+        {
+            "title":"Magic Knights Entrance Arc",
+            "synopsis":"Asta and Yuno are orphans raised in Hage. When they reach 15 years of age, both of them received their respective grimoire and enter the Magic Knights squads. Asta goes to the Black Bull squad while Yuno chooses the Golden Dawn squad.",
+            "chapters":[
+                {
+                    "number":10,
+                    "title":"What Happened One Day in the Castle Town"
+                },
+                {
+                    "number":9,
+                    "title":"The Boy's Vow 2"
+                },
+                {
+                    "number":8,
+                    "title":"To Protect Someone"
+                },
+                {
+                    "number":7,
+                    "title":"Brutes"
+                },
+                {
+                    "number":6,
+                    "title":"Go Go First Mission"
+                },
+                {
+                    "number":5,
+                    "title":"The Other New Member"
+                },
+                {
+                    "number":4,
+                    "title":"Black Bull"
+                },
+                {
+                    "number":3,
+                    "title":"The Road to the Magic Emperor"
+                },
+                {
+                    "number":2,
+                    "title":"Magic Knights Entrance Exam"
+                },
+                {
+                    "number":1,
+                    "title":"The Boy's Vow"
+                }
+            ]
+        }
+    ]
+}
